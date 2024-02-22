@@ -1,0 +1,6 @@
+ys content of a file
+
+for File in *
+do
+	echo "$File" | cut -d'-' -f2
+done
