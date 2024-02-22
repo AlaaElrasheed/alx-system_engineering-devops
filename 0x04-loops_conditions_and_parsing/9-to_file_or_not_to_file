@@ -1,4 +1,5 @@
-ecking files
+#!/usr/bin/env bash
+# checking files
 
 File="school"
 if [ -e "$File" ]; then

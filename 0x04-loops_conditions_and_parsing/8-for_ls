@@ -1,4 +1,5 @@
-ys content of a file
+#!/usr/bin/env bash
+# diplays content of a file
 
 for File in *
 do

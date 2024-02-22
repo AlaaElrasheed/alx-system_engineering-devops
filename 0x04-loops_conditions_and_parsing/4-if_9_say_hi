@@ -1,4 +1,5 @@
-s script is displaying "Best School" 10 times and Hi one time
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times and Hi one time
 export count=1
 while [ $count -le 10 ]
 do

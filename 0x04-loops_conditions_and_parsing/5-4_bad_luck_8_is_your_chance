@@ -1,5 +1,5 @@
-
- a ys certain string with certain values
+#!/usr/bin/env bash
+#displays certain string with certain values
 export count=1
 while [ $count -le 10 ]
 do
@@ -11,4 +11,4 @@ do
 		echo "Best School"
 	fi
 	((count++))
-doneRectangle class."""
+done

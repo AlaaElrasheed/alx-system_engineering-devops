@@ -1,4 +1,5 @@
- with numbers ...
+#!/usr/bin/env bash
+# cultures with numbers ...
 
 i=1
 

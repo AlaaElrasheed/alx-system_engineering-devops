@@ -1,4 +1,5 @@
-tory of passwd
+#!/usr/bin/env bash
+# Tell the story of passwd
 
 file="/etc/passwd"
 
